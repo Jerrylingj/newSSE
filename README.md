@@ -1,3 +1,16 @@
+## 效果展示
+
+<img width="1274" alt="2a4cc1490dd9905c31caf8765eb8279" src="https://github.com/user-attachments/assets/33b00581-d816-4d27-8fc0-cd6a5000f932">
+
+<img width="1274" alt="dd23bf39f9d8aee419820c620a7397d" src="https://github.com/user-attachments/assets/c449c25c-c1d5-4832-9daf-ad42829ef0e1">
+
+<img width="145" alt="image" src="https://github.com/user-attachments/assets/c46f81a0-82fd-4de0-804f-788da6951e64">
+
+<img width="148" alt="image" src="https://github.com/user-attachments/assets/30820b17-2935-4d6b-b8f2-b3de9229f160">
+
+<img width="154" alt="image" src="https://github.com/user-attachments/assets/c915161a-ba43-4923-8d7a-fb8f575353ca">
+
+
 ## 安装依赖
 ```sh
 npm install
